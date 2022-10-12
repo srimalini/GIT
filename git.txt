@@ -1,1 +1,7 @@
 hi all everyone
+greet = "hello, you are welcome9999"
+match=re.findall("\d+",greet)
+match1=re.split("\s",greet)
+print(match1)
+print(match)
+            
